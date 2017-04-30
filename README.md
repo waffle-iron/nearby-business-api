@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/thamaraaalves/nearby-business-api.png?label=ready&title=Ready)](https://waffle.io/thamaraaalves/nearby-business-api)
 # Angular Firebase Authentication
 
 ![Angular Authentication Tutorial](https://s3.amazonaws.com/coursetro/posts/32-full.png)
